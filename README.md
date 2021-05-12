@@ -26,4 +26,4 @@ A looping Python program runs on the Raspberry Pi, which consists of various fun
 - Add a page that allows users to see the 5 (or more) most recent readings
 - Implement responsive web design (make it mobile-friendly so that people passing the Nest can maybe connect to the website and see the readings)
 
-The code is currently a bit messy as I am reconciling various versions stored on the Pi and on my computer, as there were many technical hiccups with the SQL database. Additionally, this is my first time coding in HMTL, PHP, CSS, SQL, and Python so syntax may not be the most efficient or optimal.
+The code is currently a bit messy as I am reconciling various versions stored on the Pi and on my computer, as I do not have physical access to the Pi. Additionally, this is my first time coding in HMTL, PHP, CSS, SQL, and Python so syntax may not be the most efficient or optimal.
